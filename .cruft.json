@@ -1,0 +1,22 @@
+{
+  "template": "https://github.com/42nick/cookie-py-template",
+  "commit": "5330b02de99c3bbdd0344d9349ff50954a954b17",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Niklas Hahn",
+      "email": "YourEmail@eg.com",
+      "github_username": "42nick",
+      "project_name": "Python pdf Editor",
+      "project_slug": "python_pdf_editor",
+      "project_short_description": "This module should help you to modify pdf documents via a GUI",
+      "version": "0.0.0",
+      "Do you want to add a .vscode folder and useful python related settings e.g. autoformatting on save with black and isort?\n[Please press enter for the next input]": "",
+      "additional_vsc_settings": "y",
+      "Do you want to link your project to sonarcloud.io for code quality analysis? You need to provide the sonarcloud organization in the next step and set the SONAR_TOKEN environment variable.\n[Please press enter for the next input]": "",
+      "sonarcloud": "y",
+      "_template": "https://github.com/42nick/cookie-py-template"
+    }
+  },
+  "directory": null
+}
