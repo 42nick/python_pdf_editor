@@ -1,4 +1,3 @@
-import argparse
 from python_pdf_editor.app import app
 
 

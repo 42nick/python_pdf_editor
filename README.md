@@ -14,5 +14,7 @@ With [PEP 631](https://peps.python.org/pep-0631/) it becomes easily to add optio
 sphinx-build -b html docs/source docs/build
 ```
 
+The code is generated with the help of ChatGPT.
+
 [Documentation](./docs/source/index.rst)
 

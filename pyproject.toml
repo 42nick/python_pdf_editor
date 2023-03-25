@@ -8,7 +8,7 @@ version = "0.0.1"
 readme = "README.md"
 requires-python = ">=3.7"
 license = { text = "MIT License" }
-dependencies = ["PyPDF2","dash-bootstrap-components"]
+dependencies = ["PyPDF2","dash-bootstrap-components", "pdf2image"]
 [project.optional-dependencies]
 dev = ["python_pdf_editor[test]", "python_pdf_editor[docs]", "tox"]
 test = ["pytest", "pytest-cov", "coverage", "black", "isort", "pylint", "mypy"]
